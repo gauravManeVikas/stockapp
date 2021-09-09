@@ -1,0 +1,9 @@
+
+You need to create a basic e-commerce website with the following features: 
+
+Login and registration functionality. 
+We have two types of users Admin and customers. 
+Admin can add product (name, price, picture) 
+Admin can edit, update and delete product. 
+List out those products on-page for customer to buy. 
+Customers can view product lists, can add products into cart, can remove products from cart.  Show the count of items present in cart on view same as any e-commerce website. 
